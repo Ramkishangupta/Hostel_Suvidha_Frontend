@@ -74,13 +74,13 @@
 
   <h2>🖥️ Screenshots</h2>
 
-  <img src="./snap/0.png" alt="Login Page"/>
-  <img src="./snap/1.png" alt="Student Dashboard"/>
-  <img src="./snap/2.png" alt="Admin Panel"/>
-  <img src="./snap/3.png" alt="Leave Application Page"/>
-  <img src="./snap/4.png" alt="Complaint Management"/>
-  <img src="./snap/5.png" alt="Room Allocation"/>
-  <img src="./snap/6.png" alt="Responsive View"/>
+  <img src="/Hostel_Suvidha/snap/0.png" alt="Login Page"/>
+  <img src="/Hostel_Suvidha/snap/1.png" alt="Student Dashboard"/>
+  <img src="/Hostel_Suvidha/snap/2.png" alt="Admin Panel"/>
+  <img src="/Hostel_Suvidha/snap/3.png" alt="Leave Application Page"/>
+  <img src="/Hostel_Suvidha/snap/4.pngg" alt="Complaint Management"/>
+  <img src="/Hostel_Suvidha/snap/5.pngg" alt="Room Allocation"/>
+  <img src="/Hostel_Suvidha/snap/6.png" alt="Responsive View"/>
 
   <h2>👨‍💻 Author</h2>
   <p>Ramkishan Gupta</p>
