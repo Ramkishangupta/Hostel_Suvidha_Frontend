@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>HostelSuvidha - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    img {
-      width: 100%;
-      max-width: 600px;
-      margin: 10px 0;
-      border: 1px solid #ddd;
-      border-radius: 6px;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-size: 90%;
-    }
-    ul {
-      margin-left: 20px;
-    }
-  </style>
-</head>
-<body>
 
   <h1>🏨 HostelSuvidha</h1>
   <p>
